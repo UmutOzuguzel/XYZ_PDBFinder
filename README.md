@@ -30,9 +30,7 @@ This Python script is developed for computational chemistry applications, specif
 
 1. **Install Required Packages**: Ensure all dependencies are installed:
 
-'''
-pip install -r requirements.txt
-'''
+'pip install -r requirements.txt'
 
 2. **Configure Script**: Modify the `atom_pairs` list in the script to include your atom pairs for bond lengths between them / constraints. Set `xyz_file_name` and `pdb_file_name` to your file paths.
 
