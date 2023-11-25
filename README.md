@@ -24,7 +24,7 @@ This Python script is developed for computational chemistry applications, specif
 
 2. **Export XYZ**: Export the coordinates of the targeted atoms into an XYZ file.
 
-3. **Note Atom Sequence Numbers**: Record the sequence numbers of these atoms for later use.
+3. **Note Atom Sequence Numbers**: Record the sequence numbers of these atoms from simplified XYZ file for later use.
 
 ### Setting Up
 
@@ -32,7 +32,7 @@ This Python script is developed for computational chemistry applications, specif
 
 'pip install -r requirements.txt'
 
-2. **Configure Script**: Modify the `atom_pairs` list in the script to include your atom pairs for bond lengths between them / constraints. Set `xyz_file_name` and `pdb_file_name` to your file paths.
+2. **Configure Script**: Modify the `atom_pairs` list in the script to include your atom pairs for bond lengths between them / constraints. Set `xyz_file_name` and `pdb_file_name` to your file names. Input the atom indices you want to find from the XYZ file in the PDB file.
 
 ### Running the Script
 
