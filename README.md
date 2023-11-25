@@ -2,7 +2,13 @@
 This Python script is developed for computational chemistry applications, specifically to interface between XYZ and PDB molecular structure file formats.
 # Match XYZ to PDB and Calculate Bond Lengths
 
-This Python script is developed for computational chemistry applications, specifically to interface between XYZ and PDB molecular structure file formats.
+This Python script is developed for computational chemistry applications, specifically to interface between a smaller XYZ file and a larger PDB file that contains the atoms in XYZ file.
+
+The script can also give an Ash constraints to be inputted for MD or QM/MM applications. 
+
+## Related Resources
+
+For input related to the Ash molecular simulation tool, see the Ash repository: [Ash Input Repository](https://github.com/RagnarB83/ash)
 
 ## Features
 
@@ -40,4 +46,6 @@ This Python script is developed for computational chemistry applications, specif
 
 2. **Review Output**: Check the script's output for matched sequence numbers, residue numbers, bond lengths, and constraints for Ash.
 
+## To be done
+Input for Orca bond constraints
 
