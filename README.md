@@ -8,7 +8,7 @@ The script can also give an Ash constraints to be inputted for MD or QM/MM appli
 
 ## Related Resources
 
-For input related to the Ash molecular simulation tool, see the Ash repository: [Ash Input Repository](https://github.com/RagnarB83/ash)
+See Ash repository: [Ash Input Repository](https://github.com/RagnarB83/ash)
 
 ## Features
 
